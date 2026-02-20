@@ -1,8 +1,8 @@
-# SOC Intern — Tier 1 (Blue Team)
+# SOC — Tier 1
 
 ## About
-SOC Intern tập trung vào giám sát và phản ứng sự cố mức cơ bản (Tier 1).
-Kinh nghiệm chính: phân tích log, xử lý alert, phân loại sự kiện (triage), escalte khi cần thiết, và tuân thủ quy trình Incident Response.
+SOC giám sát và phản ứng sự cố mức cơ bản.
+Kinh nghiệm chính: phân tích log, xử lý alert, phân loại sự kiện (triage), escalte và biết về quy trình Incident Response.
 
 ---
 
@@ -51,5 +51,5 @@ Kinh nghiệm chính: phân tích log, xử lý alert, phân loại sự kiện 
 ---
 
 ## Liên hệ
-GitHub: github.com/<your-username>  
-Email: <your-email@example.com>
+Facebook: https://www.facebook.com/bui.thanh.327118/
+Email: bnthanhbkai@gmail.com
