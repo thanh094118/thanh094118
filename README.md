@@ -6,15 +6,15 @@
 <p align="left">
 
 <a href="mailto:bnthanhbkai@gmail.com">
-<img align="center" src="https://cdn.simpleicons.org/gmail" height="30" width="40"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" width="40"/>
 </a>
 
 <a href="https://www.linkedin.com/in/thanh-bui-830795385/" target="_blank">
-<img align="center" src="https://cdn.simpleicons.org/linkedin" height="30" width="40"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40"/>
 </a>
 
 <a href="https://www.facebook.com/bui.thanh.327118/" target="_blank">
-<img align="center" src="https://cdn.simpleicons.org/facebook" height="30" width="40"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" width="40"/>
 </a>
 
 <a href="https://www.reddit.com/user/Fit_Driver8203/" target="_blank">
@@ -31,51 +31,36 @@
 
 <!-- Python -->
 <a href="https://www.python.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 </a>
 
 <!-- Linux -->
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</a>
-
-<!-- Wireshark -->
-<a href="https://www.wireshark.org">
-<img src="https://cdn.simpleicons.org/wireshark" width="40" height="40"/>
-</a>
-
-<!-- Nmap -->
-<a href="https://nmap.org">
-<img src="https://cdn.simpleicons.org/nmap" width="40" height="40"/>
-</a>
-
-<!-- Metasploit -->
-<a href="https://www.metasploit.com">
-<img src="https://cdn.simpleicons.org/metasploit" width="40" height="40"/>
-</a>
-
-<!-- Kali -->
-<a href="https://www.kali.org">
-<img src="https://cdn.simpleicons.org/kalilinux" width="40" height="40"/>
-</a>
-
-<!-- Splunk -->
-<a href="https://www.splunk.com">
-<img src="https://cdn.simpleicons.org/splunk" width="40" height="40"/>
-</a>
-
-<!-- Elasticsearch -->
-<a href="https://www.elastic.co">
-<img src="https://cdn.simpleicons.org/elasticsearch" width="40" height="40"/>
+<a href="https://www.linux.org">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </a>
 
 <!-- Docker -->
 <a href="https://www.docker.com">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+</a>
+
+<!-- Splunk -->
+<a href="https://www.splunk.com">
+<img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" height="40"/>
+</a>
+
+<!-- Elasticsearch -->
+<a href="https://www.elastic.co">
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40"/>
+</a>
+
+<!-- Wireshark -->
+<a href="https://www.wireshark.org">
+<img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" height="40"/>
 </a>
 
 </p>
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=36BCF7&vCenter=true&multiline=true&height=40&lines=Cybersecurity+Enthusiast;SOC+Analyst+%7C+Threat+Detection;Malware+Analysis+Learner">
+<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=36BCF7&vCenter=true&multiline=true&height=40&lines=Cybersecurity+Enthusiast;SOC+Analysis+%7C+Threat+Detection;SIEM+%7C+Log+Analysis">
