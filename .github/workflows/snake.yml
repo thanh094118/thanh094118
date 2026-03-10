@@ -1,0 +1,71 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Click **"Commit changes"** → **Commit directly to main** → **Commit changes**.
+
+---
+
+### BƯỚC 2 — Cấp quyền Write cho Actions
+
+> Bước này hay bị bỏ qua và là nguyên nhân lỗi số 1.
+
+1. Vào repo → click tab **Settings**
+2. Sidebar trái → **Actions** → **General**
+3. Kéo xuống phần **"Workflow permissions"**
+4. Chọn **"Read and write permissions"**
+5. Click **Save**
+
+---
+
+### BƯỚC 3 — Chạy Action thủ công lần đầu
+
+1. Vào tab **Actions** của repo
+2. Bên trái thấy workflow tên **"Generate Snake Animation"** → click vào
+3. Bên phải click nút **"Run workflow"** → **"Run workflow"** (xanh lá)
+4. Đợi ~1 phút, thấy vòng tròn chạy → chuyển thành ✅ là thành công
+
+Sau khi chạy xong, GitHub sẽ tự tạo một branch tên **`output`** chứa 2 file SVG:
+```
+output/github-contribution-grid-snake.svg
+output/github-contribution-grid-snake-dark.svg
+```
+
+---
+
+### BƯỚC 4 — Kiểm tra SVG đã có chưa
+
+Truy cập URL này (thay `bnthanhbkai` bằng username của bạn):
+```
+https://raw.githubusercontent.com/bnthanhbkai/bnthanhbkai/output/github-contribution-grid-snake-dark.svg
