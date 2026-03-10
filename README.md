@@ -1,6 +1,6 @@
 <h1 align="left">
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
-📫 How to reach me
+⚙ How to reach me
 </h1>
 
 <p align="left">
@@ -45,7 +45,7 @@
 </a>
 
 <!-- Windows -->
-<a href="https://www.microsoft.com/windows">
+<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
 </a>
 
@@ -54,19 +54,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
 </a>
 
-<!-- Wireshark (nền xanh nổi hơn) -->
+<!-- Wireshark -->
 <a href="https://www.wireshark.org">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Logo.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/wireshark/wireshark.png" width="40" height="40"/>
 </a>
 
 <!-- Nmap -->
 <a href="https://nmap.org">
-<img src="https://cdn.simpleicons.org/nmap/214478" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/nmap/nmap.png" width="40" height="40"/>
 </a>
 
 <!-- Kali -->
 <a href="https://www.kali.org">
-<img src="https://cdn.simpleicons.org/kalilinux/557C94" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/kali-linux/kali-linux.png" width="40" height="40"/>
 </a>
 
 <!-- Splunk -->
