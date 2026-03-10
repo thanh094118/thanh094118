@@ -59,14 +59,9 @@
 <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" height="40"/>
 </a>
 
-<!-- Nmap -->
-<a href="https://nmap.org">
-<img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" width="40" height="40"/>
-</a>
-
 <!-- Kali -->
 <a href="https://www.kali.org">
-<img src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/kalilinux/557C94" width="40" height="40"/>
 </a>
 
 <!-- Splunk -->
