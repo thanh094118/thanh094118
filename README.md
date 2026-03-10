@@ -48,40 +48,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=36BCF7&background=00000000&center=false&vCenter=true&width=600&lines=Passionate+about+Blue+Team+%26+Threat+Detection;Building+SIEM+pipelines+with+Splunk+%26+Elastic;Analyzing+malware+samples+daily;CTF+player+%7C+Always+learning+%F0%9F%94%8D" alt="Typing SVG" />
 
----
-
-## `skill_matrix --domain cybersecurity`
-
-<div align="center">
-
-### 🔵 Blue Team / SOC Operations
-| Skill | Tool | Level |
-|-------|------|-------|
-| SIEM & Log Analysis | Splunk, ELK Stack | `████████░░` Advanced |
-| Threat Detection | Sigma Rules, YARA | `███████░░░` Proficient |
-| Incident Response | TheHive, MISP | `██████░░░░` Intermediate |
-| Network Forensics | Wireshark, Zeek | `████████░░` Advanced |
-| Endpoint Detection | Sysmon, Velociraptor | `██████░░░░` Intermediate |
-
-### 🔴 Offensive / Pen Testing
-| Skill | Tool | Level |
-|-------|------|-------|
-| Vulnerability Scanning | Nmap, Nessus | `███████░░░` Proficient |
-| Exploitation | Metasploit, Burp Suite | `█████░░░░░` Learning |
-| Recon & OSINT | Maltego, theHarvester | `██████░░░░` Intermediate |
-| Password Attacks | Hashcat, John | `███████░░░` Proficient |
-
-### 🟡 Malware Analysis
-| Skill | Type | Level |
-|-------|------|-------|
-| Static Analysis | PE Analysis, IDA Free, Ghidra | `███████░░░` Proficient |
-| Dynamic Analysis | Cuckoo, Any.run | `██████░░░░` Intermediate |
-| Reverse Engineering | x64dbg, OllyDbg | `█████░░░░░` Learning |
-| Sandbox Evasion Detection | CAPE, FlareVM | `█████░░░░░` Learning |
-
-</div>
-
----
 
 ## `ls -la projects/`
 
