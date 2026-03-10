@@ -8,7 +8,7 @@
  |___/\_,_||_|   |_| |_||_\__,_|_||_||_||_|
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=500&lines=Passionate+about+Security+%F0%9F%94%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=500&lines=Passionate+about+Security" alt="Typing SVG" />
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║              [ CYBERSECURITY ENGINEER ]                          ║
+║                CYBERSECURITY ENGINEER                            ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  Name       : Bui Thanh                                          ║
 ║  Education  : Hanoi University of Science and Technology (HUST)  ║
@@ -26,7 +26,6 @@
 ║  Focus      : SIEM | Log Analysis | Incident Response            ║
 ║  Platform   : Kali Linux / Windows Server / Cloud                ║
 ║  TOEIC      : 600+                                               ║
-║  Status     : [ ■■■■■■■■░░ ] Leveling up...                      ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -47,10 +46,8 @@
 <a href="https://www.wireshark.org"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" height="40" title="Wireshark"/></a>
 <a href="https://www.kali.org"><img src="https://cdn.simpleicons.org/kalilinux/557C94" width="40" height="40" title="Kali Linux"/></a>
 <a href="https://www.splunk.com"><img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" height="40" title="Splunk"/></a>
-<a href="https://www.elastic.co"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40" title="Elasticsearch"/></a>
 <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/></a>
 <a href="https://github.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub"/></a>
-<a href="https://www.metasploit.com"><img src="https://cdn.simpleicons.org/metasploit/0078D4" width="40" height="40" title="Metasploit"/></a>
 </p>
 
 <div align="center">
@@ -58,7 +55,6 @@
 ### 📜 Certifications & Learning Path
 
 ![CEH](https://img.shields.io/badge/CEH-In_Progress-ff6b35?style=for-the-badge&logo=ec-council&logoColor=white&labelColor=1a1a1a)
-![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-Studying-e8002d?style=for-the-badge&logo=comptia&logoColor=white&labelColor=1a1a1a)
 ![Blue Team Labs](https://img.shields.io/badge/Blue_Team_Labs-Active-0066ff?style=for-the-badge&labelColor=1a1a1a)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Practicing-c11111?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=1a1a1a)
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Active-9fef00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=1a1a1a)
@@ -80,7 +76,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution
 
 <div align="center">
   <picture>
@@ -102,16 +98,5 @@
 </p>
 
 ---
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║  "The quieter you become, the more you are able to hear"  ║
-║                           — Kali Linux motto              ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=100&section=footer&text=Stay+Curious.+Stay+Secure.&fontSize=20&fontColor=0d0d0d&animation=fadeIn&fontAlignY=65"/>
 
 </div>
