@@ -41,46 +41,6 @@
 
 ---
 
-## `skill_matrix --domain cybersecurity`
-
-<div align="center">
-
-### 🔵 Blue Team / SOC Operations
-| Skill | Tool | Level |
-|-------|------|-------|
-| SIEM & Log Analysis | Splunk, ELK Stack | `████████░░` Advanced |
-| Threat Detection | Sigma Rules, YARA | `███████░░░` Proficient |
-| Incident Response | TheHive, MISP | `██████░░░░` Intermediate |
-| Network Forensics | Wireshark, Zeek | `████████░░` Advanced |
-| Endpoint Detection | Sysmon, Velociraptor | `██████░░░░` Intermediate |
-
-### 🔴 Offensive / Pen Testing
-| Skill | Tool | Level |
-|-------|------|-------|
-| Vulnerability Scanning | Nmap, Nessus | `███████░░░` Proficient |
-| Exploitation | Metasploit, Burp Suite | `█████░░░░░` Learning |
-| Recon & OSINT | Maltego, theHarvester | `██████░░░░` Intermediate |
-| Password Attacks | Hashcat, John | `███████░░░` Proficient |
-
-### 🟡 Malware Analysis
-| Skill | Type | Level |
-|-------|------|-------|
-| Static Analysis | PE Analysis, IDA Free, Ghidra | `███████░░░` Proficient |
-| Dynamic Analysis | Cuckoo, Any.run | `██████░░░░` Intermediate |
-| Reverse Engineering | x64dbg, OllyDbg | `█████░░░░░` Learning |
-| Sandbox Evasion Detection | CAPE, FlareVM | `█████░░░░░` Learning |
-
-</div>
-
----
-
-## `ls -la projects/`
-
-```bash
-┌──(thanh㉿kali)-[~/projects]
-└─$ ls -la --color=auto
-```
-
 ## `nmap --scan-type tech-stack`
 
 <h3 align="left">🛡️ Cybersecurity Tools & Technologies</h3>
