@@ -2,12 +2,10 @@
 <div align="center">
 
 ```
-██████╗ ███╗   ██╗████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗ 
-██╔══██╗████╗  ██║╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║  ██║
-██████╔╝██╔██╗ ██║   ██║   ███████║███████║██╔██╗ ██║███████║
-██╔══██╗██║╚██╗██║   ██║   ██╔══██║██╔══██║██║╚██╗██║██╔══██║
-██████╔╝██║ ╚████║   ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██║
-╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ 
+  ___       _   _____ _                 _
+ | _ )_  _ (_) |_   _| |_  __ _ _ _  | |_
+ | _ \ || || |   | | | ' \/ _` | ' \ | ' \
+ |___/\_,_||_|   |_| |_||_\__,_|_||_||_||_|
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=500&lines=Passionate+about+Security+%F0%9F%94%90" alt="Typing SVG" />
@@ -82,7 +80,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=thanh094118&theme=matrix&background=0d0d0d&border=00ff41&stroke=00ff41&ring=36BCF7&fire=ff0040&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff41&sideLabels=00ff41&dates=888888" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=thanh094118&theme=matrix&background=0d0d0d&border=00ff41&stroke=00ff41&ring=36BCF7&fire=ff0040&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff41&sideLabels=00ff41&dates=888888" />
 </div>
 
 ---
