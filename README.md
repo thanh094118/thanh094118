@@ -2,15 +2,15 @@
 <div align="center">
 
 ```
- ██████╗ ███╗   ██╗████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗ ██████╗ █████╗ ██╗  ██╗ ██╗ ██╗ █████╗
-██╔══██╗████╗  ██║╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║  ██║██╔═████╗██╔══██╗██║  ██║███║ ██║██╔══██╗
-██████╔╝██╔██╗ ██║   ██║   ███████║███████║██╔██╗ ██║███████║██║██╔██║╚██████║███████║╚██║ ██║╚█████╔╝
-██╔══██╗██║╚██╗██║   ██║   ██╔══██║██╔══██║██║╚██╗██║██╔══██║████╔╝██║ ╚═══██║╚════██║ ██║ ██║██╔══██╗
-██████╔╝██║ ╚████║   ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██║╚██████╔╝ █████╔╝      ██║ ██║ ██║╚█████╔╝
-╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚════╝       ╚═╝ ╚═╝ ╚═╝ ╚════╝
+██████╗ ███╗   ██╗████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗ ██████╗ █████╗ ██╗  ██╗ ██╗
+██╔══██╗████╗  ██║╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║  ██║██╔═████╗██╔══██╗██║  ██║███║
+██████╔╝██╔██╗ ██║   ██║   ███████║███████║██╔██╗ ██║███████║██║██╔██║╚██████║███████║╚██║
+██╔══██╗██║╚██╗██║   ██║   ██╔══██║██╔══██║██║╚██╗██║██╔══██║████╔╝██║ ╚═══██║╚════██║ ██║
+██████╔╝██║ ╚████║   ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██║╚██████╔╝ █████╔╝      ██║ ██║
+╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚════╝      ╚═╝ ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=720&height=100&lines=Passionate+about+Cybersecurity+%26+Threat+Hunting;SOC+Analyst+%7C+Malware+Researcher+%7C+Blue+Teamer;Always+learning+%7C+Always+defending" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=500&lines=Passionate+about+Security+%F0%9F%94%90" alt="Typing SVG" />
 
 </div>
 
@@ -18,15 +18,22 @@
 
 <div align="center">
 
+```bash
+┌──(thanh094118㉿kali)-[~/profile]
+└─$ cat about.txt
+```
+
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║                    [ SECURITY ANALYST ]                          ║
+║              [ CYBERSECURITY ENGINEER ]                          ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  Name     : Bui Thanh                                            ║
-║  Role     : SOC Analyst | Malware Researcher | Threat Hunter     ║
-║  Focus    : SIEM | Log Analysis | Incident Response              ║
-║  Platform : Kali Linux / Windows Server / Cloud                  ║
-║  Status   : [ ■■■■■■■■░░ ] Leveling up...                        ║
+║  Name       : Bui Thanh                                          ║
+║  Education  : Hanoi University of Science and Technology (HUST)  ║
+║  Role       : SOC Analyst | Malware Researcher | Threat Hunter   ║
+║  Focus      : SIEM | Log Analysis | Incident Response            ║
+║  Platform   : Kali Linux / Windows Server / Cloud                ║
+║  TOEIC      : 600+                                               ║
+║  Status     : [ ■■■■■■■■░░ ] Leveling up...                      ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -75,7 +82,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=thanh094118&theme=matrix&background=0d0d0d&border=00ff41&stroke=00ff41&ring=36BCF7&fire=ff0040&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff41&sideLabels=00ff41&dates=888888" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=thanh094118&theme=matrix&background=0d0d0d&border=00ff41&stroke=00ff41&ring=36BCF7&fire=ff0040&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff41&sideLabels=00ff41&dates=888888" />
 </div>
 
 ---
