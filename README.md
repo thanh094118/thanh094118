@@ -50,7 +50,6 @@
 <a href="https://github.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub"/></a>
 </p>
 
-<div align="center">
 
 ### 📜 Certifications & Learning Path
 
