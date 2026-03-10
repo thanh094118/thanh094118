@@ -12,22 +12,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%5B%2B%5D+Initializing+Security+Protocols...;%5B%2B%5D+SOC+Analyst+%7C+Threat+Hunter+%7C+Malware+Analyst;%5B%2B%5D+Access+Granted+%E2%80%94+Welcome+to+my+Terminal" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=bnthanhbkai&style=for-the-badge&color=00ff41&labelColor=0d0d0d&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/badge/Status-Actively_Hunting_Threats-00ff41?style=for-the-badge&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Clearance-AUTHORIZED-ff0040?style=for-the-badge&labelColor=0d0d0d" />
+
 
 </div>
 
 ---
 
-<!-- ANIMATED HACKER GIF BANNER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%"/>
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> `whoami`
+## `whoami`
 
 ```bash
 ┌──(thanh㉿kali)-[~/profile]
@@ -48,6 +39,40 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=36BCF7&background=00000000&center=false&vCenter=true&width=600&lines=Passionate+about+Blue+Team+%26+Threat+Detection;Building+SIEM+pipelines+with+Splunk+%26+Elastic;Analyzing+malware+samples+daily;CTF+player+%7C+Always+learning+%F0%9F%94%8D" alt="Typing SVG" />
 
+---
+
+## `skill_matrix --domain cybersecurity`
+
+<div align="center">
+
+### 🔵 Blue Team / SOC Operations
+| Skill | Tool | Level |
+|-------|------|-------|
+| SIEM & Log Analysis | Splunk, ELK Stack | `████████░░` Advanced |
+| Threat Detection | Sigma Rules, YARA | `███████░░░` Proficient |
+| Incident Response | TheHive, MISP | `██████░░░░` Intermediate |
+| Network Forensics | Wireshark, Zeek | `████████░░` Advanced |
+| Endpoint Detection | Sysmon, Velociraptor | `██████░░░░` Intermediate |
+
+### 🔴 Offensive / Pen Testing
+| Skill | Tool | Level |
+|-------|------|-------|
+| Vulnerability Scanning | Nmap, Nessus | `███████░░░` Proficient |
+| Exploitation | Metasploit, Burp Suite | `█████░░░░░` Learning |
+| Recon & OSINT | Maltego, theHarvester | `██████░░░░` Intermediate |
+| Password Attacks | Hashcat, John | `███████░░░` Proficient |
+
+### 🟡 Malware Analysis
+| Skill | Type | Level |
+|-------|------|-------|
+| Static Analysis | PE Analysis, IDA Free, Ghidra | `███████░░░` Proficient |
+| Dynamic Analysis | Cuckoo, Any.run | `██████░░░░` Intermediate |
+| Reverse Engineering | x64dbg, OllyDbg | `█████░░░░░` Learning |
+| Sandbox Evasion Detection | CAPE, FlareVM | `█████░░░░░` Learning |
+
+</div>
+
+---
 
 ## `ls -la projects/`
 
@@ -55,65 +80,6 @@
 ┌──(thanh㉿kali)-[~/projects]
 └─$ ls -la --color=auto
 ```
-
-### 🛡️ SOC & Detection Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**🔍 [SIEM-Detection-Lab](https://github.com/bnthanhbkai)**
-```
-> Built home SOC lab with ELK Stack
-> Custom Sigma detection rules
-> Mapped to MITRE ATT&CK framework
-> Alert triage & IR playbooks
-[★ Detection] [★ ELK] [★ Sigma]
-```
-
-</td>
-<td width="50%">
-
-**📡 [Network-Traffic-Analyzer](https://github.com/bnthanhbkai)**
-```
-> Pcap analysis automation (Python)
-> C2 beacon detection
-> Anomaly-based alerting
-> Threat intel integration
-[★ Wireshark] [★ Python] [★ Zeek]
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🦠 [Malware-Analysis-Reports](https://github.com/bnthanhbkai)**
-```
-> Static + Dynamic analysis samples
-> YARA rule development
-> IOC extraction & reporting
-> Sandbox automation scripts
-[★ Ghidra] [★ YARA] [★ Any.run]
-```
-
-</td>
-<td width="50%">
-
-**🚨 [Incident-Response-Toolkit](https://github.com/bnthanhbkai)**
-```
-> Forensic artifact collection
-> Memory analysis (Volatility3)
-> Threat hunting queries (KQL)
-> IR documentation templates
-[★ Volatility] [★ KQL] [★ DFIR]
-```
-
-</td>
-</tr>
-</table>
-
----
 
 ## `nmap --scan-type tech-stack`
 
@@ -174,12 +140,12 @@
 ## `cat /proc/github/stats`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bnthanhbkai&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&icon_color=36BCF7&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnthanhbkai&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanh094118&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&icon_color=36BCF7&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanh094118&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bnthanhbkai&theme=matrix&background=0d0d0d&border=00ff41&stroke=00ff41&ring=36BCF7&fire=ff0040&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff41&sideLabels=00ff41&dates=888888" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanh094118&theme=matrix&background=0d0d0d&border=00ff41&stroke=00ff41&ring=36BCF7&fire=ff0040&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff41&sideLabels=00ff41&dates=888888" />
 </div>
 
 ---
@@ -194,69 +160,10 @@
   </picture>
 </div>
 
-> ⚠️ **Setup snake animation**: Add this GitHub Action to `.github/workflows/snake.yml` in your profile repo — see below ↓
-
-<details>
-<summary><code>📄 .github/workflows/snake.yml</code> — Click to expand</summary>
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
-## `mitre --framework attack --view`
-
-<div align="center">
-
-| Tactic | Techniques I Study |
-|--------|-------------------|
-| 🔍 **Reconnaissance** | T1595, T1590, T1589 |
-| 🚪 **Initial Access** | T1566 (Phishing), T1190, T1133 |
-| ⚙️ **Execution** | T1059 (Script), T1203, T1053 |
-| 🕵️ **Defense Evasion** | T1027, T1055, T1562 |
-| 📡 **C2** | T1071, T1090, T1571 |
-| 🎯 **Exfiltration** | T1041, T1048, T1052 |
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> `netstat --contact`
+## `netstat --contact`
 
 <p align="left">
 <a href="mailto:bnthanhbkai@gmail.com">
