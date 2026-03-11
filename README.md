@@ -28,9 +28,6 @@
 ║  TOEIC      : 600+                                               ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=600&lines=Passionate+about+Blue+Team+%26+Threat+Detection;Building+SIEM+pipelines+with+Splunk+%26+Elastic;Analyzing+malware+samples+daily;CTF+player+%7C+Always+learning" alt="Typing SVG" />
-
 </div>
 
 ---
