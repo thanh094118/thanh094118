@@ -21,7 +21,7 @@
 ╠══════════════════════════════════════════════════════════════════╣
 ║  Name       : Bui Thanh                                          ║
 ║  Education  : Hanoi University of Science and Technology (HUST)  ║
-║  Role       : SOC Analyst | Malware Researcher | Threat Hunter   ║
+║  Role       : SOC Analyst | Malware Researcher | Cryptography    ║
 ║  Focus      : SIEM | Log Analysis | Incident Response            ║
 ║  Platform   : Kali Linux / Windows Server / Cloud                ║
 ╚══════════════════════════════════════════════════════════════════╝
