@@ -25,7 +25,6 @@
 ║  Role       : SOC Analyst | Malware Researcher | Threat Hunter   ║
 ║  Focus      : SIEM | Log Analysis | Incident Response            ║
 ║  Platform   : Kali Linux / Windows Server / Cloud                ║
-║  TOEIC      : 600+                                               ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 </div>
