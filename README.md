@@ -63,11 +63,6 @@
  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanh094118&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&icon_color=36BCF7&text_color=ffffff"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanh094118&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&text_color=ffffff"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=thanh094118&theme=matrix&background=0d0d0d&border=00ff41&stroke=00ff41&ring=36BCF7&fire=ff0040&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff41&sideLabels=00ff41&dates=888888" />
-</div>
-
 ---
 
 ## 🐍 Contribution
