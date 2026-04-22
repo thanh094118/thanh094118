@@ -66,12 +66,7 @@
 ---
 ## 📫 How to reach me
 
-<p align="left">
-<a href="mailto:bnthanhbkai@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" width="40" title="Email"/></a>
-<a href="https://www.linkedin.com/in/thanh-bui-830795385/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" title="LinkedIn"/></a>
-<a href="https://www.facebook.com/bui.thanh.327118/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" width="40" title="Facebook"/></a>
-<a href="https://www.reddit.com/user/Fit_Driver8203/" target="_blank"><img align="center" src="https://cdn.simpleicons.org/reddit" height="30" width="40" title="Reddit"/></a>
-</p>
+<p align="left"><a href="mailto:bnthanhbkai@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" height="30" title="Email"/></a><a href="https://www.linkedin.com/in/thanh-bui-830795385/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" title="LinkedIn"/></a><a href="https://www.facebook.com/bui.thanh.327118/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" height="30" title="Facebook"/></a><a href="https://www.reddit.com/user/Fit_Driver8203/" target="_blank"><img src="https://cdn.simpleicons.org/reddit" width="30" height="30" title="Reddit"/></a></p>
 
 ---
 
