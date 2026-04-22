@@ -33,6 +33,7 @@
 ## 🛡️ Cybersecurity Tools & Technologies
 
 <p align="left"><a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/></a><a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/></a><a href="https://www.linux.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/></a><a href="https://www.microsoft.com/windows"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30"/></a><a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/></a><a href="https://www.wireshark.org"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="30"/></a><a href="https://www.kali.org"><img src="https://cdn.simpleicons.org/kalilinux/557C94" width="30"/></a><a href="https://www.splunk.com"><img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="30"/></a><a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/></a><a href="https://github.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/></a></p>
+
 ### 📜 Certifications & Learning Path
 
 ![CEH](https://img.shields.io/badge/CEH-In_Progress-ff6b35?style=for-the-badge&logo=ec-council&logoColor=white&labelColor=1a1a1a)
