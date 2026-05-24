@@ -12,10 +12,10 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ╠══════════════════════════════════════════════════════════════════╣
 ║  Name       : Bui Thanh                                          ║
-║  Education  : Hanoi University of Science and Technology (HUST)  ║
-║  Role       : SOC Analyst | Malware Researcher | Cryptography    ║
-║  Focus      : SIEM | Log Analysis | Incident Response            ║
-║  Platform   : Kali Linux / Windows Server / Cloud                ║
+║  Education  : Hanoi University of Science and Technology         ║
+║  Role       : SOC Analyst | vul detect | Cryptography            ║
+║  Focus      : SIEM | Log Analysis | Optimization                 ║
+║  Platform   : Kali Linux + Windows Server                        ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 </div>
