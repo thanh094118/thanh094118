@@ -1,6 +1,5 @@
-<!-- HACKER BANNER ANIMATION -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=500&lines=Cyber+Security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=500&lines=CYBERSEC" alt="Typing SVG" />
 
 </div>
 
